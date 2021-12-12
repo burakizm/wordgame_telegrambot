@@ -4,7 +4,7 @@ import databaseword
 import random
 
 #set your bot token
-API_TOKEN = '1190660423:AAGZXBmCMdmKmvi0T6dyWR8WSi_lH_88jbM'
+API_TOKEN = '5088160366:AAEmdgNpINiJFJyc9ltyyPa4dfwlREJVM_I'
 
 #set your id to manage the bot
 admin_id=344254169
